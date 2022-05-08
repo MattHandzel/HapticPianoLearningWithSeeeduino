@@ -1,8 +1,7 @@
 # HapticPianoLearningWithSeeeduino!
-
-[Uploading IMG_20220501_205139751_CROPPED.jpg…]()
-
 Hello! This project is a passive haptic feedback learning device that teaches the user how to play piano. I started working on this after I saw this TedTalk -> (https://www.youtube.com/watch?v=HthrTEfSH9I) and wanted to try to make it on my own.
+
+![IMG_20220501_205139751 SMALLER](https://user-images.githubusercontent.com/39449480/167306824-9e0eb8b8-a6ac-4c09-a959-de996d16b12e.png)
 
 To summarize, this device will buzz vibration motors on your fingers (corresponding to what note should be played) in the proper order and timing for the user to play a basic melody of a song. This is a passive learning device, that means that this should be worn for extended periods of time and the brain should just learn the patter (watch the TedTalk--it explains this and is awesome).
 
